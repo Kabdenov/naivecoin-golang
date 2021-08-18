@@ -1,4 +1,7 @@
 # Basic cryptocurrency implementation developed in Go.
+
+![screenshot of UI: wallet balance and address panel, "mine next block" panel, "send coins" panel and block inspector panel](./screenshot.png)
+
 I developed this project while self-studying the Go programming language.  
 
 I was inspired by [this](https://lhartikk.github.io/jekyll/update/2017/07/15/chapter0.html) article that explains basic concepts of cryptocurrency:  
